@@ -2,7 +2,7 @@
 function scuberGreetingForFeet () {
   let feet;
     if (feet <= 400) {
-      feet = 'This one is on me!';
+      return = 'This one is on me!';
     } else if (199 < feet && feet < 2500) {
       feet = 'I will gladly take your thirty bucks.';
     } else {
